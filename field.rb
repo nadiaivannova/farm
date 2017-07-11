@@ -5,4 +5,6 @@ class Field
   def initialize(hectares)
     @hectares = hectares
   end
+
+
 end
