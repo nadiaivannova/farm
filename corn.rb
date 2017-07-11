@@ -8,7 +8,3 @@ class CornField < Field
   end
 
 end
-
-puts one = CornField.new(40)
-
-puts one.crop_yeild(40)

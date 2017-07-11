@@ -8,6 +8,3 @@ class WheatField < Field
   end
 
 end
-puts one = WheatField.new(40)
-
-puts one.crop_yeild(40)
